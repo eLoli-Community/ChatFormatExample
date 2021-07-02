@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "types": [
+      "chat-format-declare"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
